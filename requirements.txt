@@ -1,0 +1,8 @@
+python-telegram-bot==20.3
+googletrans==4.0.0-rc1
+PyPDF2
+Pillow
+img2pdf
+pytesseract
+docx2txt
+reportlab
